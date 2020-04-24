@@ -1,0 +1,43 @@
+*{
+	font-family: Arial;
+	
+}
+.titulo{
+	color: #6666CC;
+}
+h2{
+	color:  #9999FF;
+}
+
+.p1{
+	color: #808080;
+	font-style: Verdana;
+	font-size: 10pt;
+	font-weight: bold;
+}
+h3{
+	color: #6666CC;
+}
+#sp1{
+	font-weight: bold;
+}
+img{
+	float:left;
+    width: 480px;
+    height: 398px;
+
+}
+#sp2{
+	color: #FF0000;
+	font-weight: bold;
+	text-decoration: underline;
+}
+a{
+	color: #FF0000;
+	font-weight: bold;
+	text-decoration: underline;
+}
+#sp3{
+	font-weight: bold;
+	font-weight: italic;
+}
